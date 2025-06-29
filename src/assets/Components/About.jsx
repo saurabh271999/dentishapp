@@ -31,8 +31,7 @@ function About() {
                 {/* Right Image */}
                 <div className="w-full md:w-1/2">
                     <img
-                        src={image10}
-                        alt="About Banner"
+                        src=""                        alt="About Banner"
                         className="w-full h-auto max-h-[500px] object-contain"
                     />
                 </div>

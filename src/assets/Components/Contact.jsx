@@ -1,6 +1,6 @@
 import React from "react";
 import Contactform from "./Contactform";
-import teeth5 from "../about.png";
+import teeth5 from "../about.avif";
 
 function Contact() {
   return (

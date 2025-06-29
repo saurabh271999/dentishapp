@@ -1,5 +1,5 @@
 import React from "react";
-import teeth6 from "../about.png";
+import teeth6 from "../about.avif";
 import Services1 from "./Services1";
 import Services2 from "./Services2";
 import Servicescontact from "./Servicescontact";
