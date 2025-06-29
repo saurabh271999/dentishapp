@@ -1,5 +1,5 @@
 import React from "react";
-import pic10 from '../Components/pic10.webp';
+import image10 from '../Components/image10.png';
 import Aboutfirstsec from "./AboutfirstSec";
 import AboutDoctor from "./AboutDoctor";
 import Aboutsecondsec from './Aboutsecondsec';
@@ -31,7 +31,7 @@ function About() {
                 {/* Right Image */}
                 <div className="w-full md:w-1/2">
                     <img
-                        src={pic10}
+                        src={image10}
                         alt="About Banner"
                         className="w-full h-auto max-h-[500px] object-contain"
                     />
