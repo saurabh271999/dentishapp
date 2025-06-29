@@ -1,5 +1,5 @@
 import React from "react";
-import pic10 from '../about.png';
+import pic10 from '../Components/pic10.webp';
 import Aboutfirstsec from "./AboutfirstSec";
 import AboutDoctor from "./AboutDoctor";
 import Aboutsecondsec from './Aboutsecondsec';
